@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "base_track": "Passion flower ～ひびき & ふわり & ファルル ver.～",
+  "base_artist": "紫京院ひびき(cv.斎賀みつき)、緑風ふわり(cv.佐藤あずさ)、ファルル(cv.赤﨑千夏)",
+  "createdAt": "2026-01-05T04:35:03.091934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Duke Ellington",
+      "has_synced": false,
+      "path": "select/01_Passion_Flower_Duke_Ellington.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Johnny Hodges",
+      "has_synced": false,
+      "path": "select/02_Passion_Flower_Johnny_Hodges.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Metal Fingers",
+      "has_synced": false,
+      "path": "select/03_Passion_Flower_Metal_Fingers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Duke Ellington & His Orchestra",
+      "has_synced": false,
+      "path": "select/04_Passion_Flower_Duke_Ellington_&_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Duke Ellington and His Orchestra",
+      "has_synced": false,
+      "path": "select/05_Passion_Flower_Duke_Ellington_and_His_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Ellington, Duke",
+      "has_synced": false,
+      "path": "select/06_Passion_Flower_Ellington,_Duke.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Passion flower",
+      "artist": "Mina",
+      "has_synced": true,
+      "path": "select/07_Passion_flower_Mina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Bender",
+      "has_synced": false,
+      "path": "select/08_Passion_Flower_Bender.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Passion Flower",
+      "artist": "Metal Fingers",
+      "has_synced": false,
+      "path": "select/09_Passion_Flower_Metal_Fingers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "情熱の花 (PASSION FLOWER)",
+      "artist": "W",
+      "has_synced": true,
+      "path": "select/10_情熱の花_(PASSION_FLOWER)_W.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crime Of Passion",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/11_Crime_Of_Passion_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crime Of Passion (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/12_Crime_Of_Passion_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thug Passion",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/13_Thug_Passion_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Petty Passion",
+      "artist": "Lapalux",
+      "has_synced": true,
+      "path": "select/14_Petty_Passion_Lapalux.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pay No Mind (feat. Passion Pit)",
+      "artist": "Madeon feat. Passion Pit",
+      "has_synced": true,
+      "path": "select/15_Pay_No_Mind_(feat._Passion_Pit)_Madeon_feat._Passion_Pit.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Passion",
+      "artist": "The Flirts",
+      "has_synced": false,
+      "path": "select/16_Passion_The_Flirts.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Passion Play",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/17_Passion_Play_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Passion",
+      "artist": "Datura",
+      "has_synced": false,
+      "path": "select/18_Passion_Datura.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Power Of Passion",
+      "artist": "Inner City",
+      "has_synced": false,
+      "path": "select/19_Power_Of_Passion_Inner_City.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Passion of the Christ",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/20_Passion_of_the_Christ_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Passion",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/21_Passion_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Passion",
+      "artist": "AWOLNATION",
+      "has_synced": true,
+      "path": "select/22_Passion_AWOLNATION.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Passion",
+      "artist": "Blackalicious feat. Rakaa & Babu of Dilated Peoples",
+      "has_synced": false,
+      "path": "select/23_Passion_Blackalicious_feat._Rakaa_&_Babu_of_Dilated_Peoples.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Passion (feat. Rakaa & Babu of Dilated Peoples)",
+      "artist": "Blackalicious",
+      "has_synced": false,
+      "path": "select/24_Passion_(feat._Rakaa_&_Babu_of_Dilated_Peoples)_Blackalicious.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "The Passion",
+      "artist": "Billy Bragg",
+      "has_synced": true,
+      "path": "select/25_The_Passion_Billy_Bragg.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "The Passion of Lovers",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/26_The_Passion_of_Lovers_Bauhaus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Passion flower ～ひびき & ふわり & ファルル ver.～",
+      "artist": "紫京院ひびき(cv.斎賀みつき)、緑風ふわり(cv.佐藤あずさ)、ファルル(cv.赤﨑千夏)",
+      "has_synced": false,
+      "path": "select/pl_01_Passion_flower_~ひびき_&_ふわり_&_ファルル_ver.~_紫京院ひびき(cv.斎賀みつき)、緑風ふわり(cv.佐藤あずさ)、ファルル(cv.赤﨑千夏).txt"
+    }
+  ]
+}
